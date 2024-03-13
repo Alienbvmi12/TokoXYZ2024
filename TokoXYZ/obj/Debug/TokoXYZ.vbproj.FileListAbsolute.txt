@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.Login.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.Resources.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\bin\Debug\TokoXYZ.exe.config
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\bin\Debug\TokoXYZ.exe
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\bin\Debug\TokoXYZ.pdb
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\bin\Debug\TokoXYZ.xml
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.exe
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.xml
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.pdb
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.Admin.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.Gudang.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.Kasir.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.KelolaLaporan.resources
+C:\Users\HP\source\repos\TokoXYZ\TokoXYZ\obj\Debug\TokoXYZ.KelolaUser.resources
